@@ -1,0 +1,8 @@
+<car>
+    <vin>firstCar</vin>
+    <milage>120000</milage>
+    <type>truck</type>
+    <location>Moscow</location>
+    <price>10000</price>
+    <maxWeight>500</maxWeight>
+</car>
