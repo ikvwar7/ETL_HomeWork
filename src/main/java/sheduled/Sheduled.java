@@ -18,8 +18,8 @@ import java.util.stream.Stream;
 @Component
 public class Sheduled {
     final String xmlPath = "C:\\Users\\123\\Documents\\JavaLige\\day_14\\dz_1\\src\\main\\resources\\cars";
-    final String suvsDir = "C:\\Users\\123\\Documents\\JavaLige\\day_14\\dz_1\\src\\main\\resources\\Suvs";
-    final String trucksDir = "C:\\Users\\123\\Documents\\JavaLige\\day_14\\dz_1\\src\\main\\resources\\Trucks";
+    final String suvsDir = "C:\\Users\\123\\Documents\\JavaLige\\day_14\\dz_1\\src\\main\\resources\\suvs";
+    final String trucksDir = "C:\\Users\\123\\Documents\\JavaLige\\day_14\\dz_1\\src\\main\\resources\\trucks";
 
     @Scheduled(fixedRate = 10000)
     public void findCars() throws IOException, JAXBException {
