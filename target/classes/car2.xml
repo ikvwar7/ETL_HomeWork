@@ -1,0 +1,8 @@
+<car>
+    <vin>secondCar</vin>
+    <milage>500000</milage>
+    <type>suv</type>
+    <location>Novosibirsk</location>
+    <price>50000</price>
+    <maxWeight>0</maxWeight>
+</car>
